@@ -1,0 +1,29 @@
+*{
+margin: 0;
+padding: 0;
+background: Black;
+}
+.center{
+text-align: center;
+align-items: center;
+justfy-content: center;
+}
+a{
+text-decoration: none;
+font-style: none;
+}
+p{
+color: White;
+font-weight: 700;
+font-size: 22px;
+text-decoration: none;
+font-style: none;
+padding: 8px;
+}
+span{
+text-decoration: none;
+font-style: none;
+font-weight: 700;
+font-size: 22px;
+color: Blue;
+}
